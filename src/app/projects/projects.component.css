@@ -1,0 +1,31 @@
+.projects-type {
+  display: inline-block;
+  width: 450px;
+  height: 150px;
+  background: linear-gradient(to right, rgb(120,102,160), rgb(98,80,140));
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  margin-left: 20px;
+}
+
+.projects-type span {
+  position: relative;
+  top: 70%;
+  left: 5%;
+}
+
+.projects-count {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background: linear-gradient(to right, rgb(120,102,160), rgb(98,80,140));
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.projects-count span {
+  position: relative;
+  top: 50%;
+  left: 45%;
+}
+
